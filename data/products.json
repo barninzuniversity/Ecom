@@ -1,0 +1,57 @@
+[
+  {
+    "id": "prod_1759872885755",
+    "name": "hamdi",
+    "category": "hamdi",
+    "price": 10,
+    "stock": 0,
+    "imageUrl": "",
+    "description": "",
+    "active": true,
+    "createdAt": 1759872885755
+  },
+  {
+    "id": "prod_1",
+    "name": "Classic T-Shirt",
+    "category": "Apparel",
+    "price": 39.9,
+    "stock": 15,
+    "description": "100% cotton, unisex fit.",
+    "imageUrl": "https://via.placeholder.com/300x200?text=T-Shirt",
+    "active": true,
+    "createdAt": 1759872625687
+  },
+  {
+    "id": "prod_2",
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 129,
+    "stock": 8,
+    "description": "Bluetooth 5.1, 24h battery.",
+    "imageUrl": "https://via.placeholder.com/300x200?text=Earbuds",
+    "active": true,
+    "createdAt": 1759872625687
+  },
+  {
+    "id": "prod_3",
+    "name": "Ceramic Mug",
+    "category": "Home",
+    "price": 19.5,
+    "stock": 24,
+    "description": "Dishwasher safe 350ml mug.",
+    "imageUrl": "https://via.placeholder.com/300x200?text=Mug",
+    "active": true,
+    "createdAt": 1759872625687
+  },
+  {
+    "id": "prod_4",
+    "name": "Notebook A5",
+    "category": "Stationery",
+    "price": 8.9,
+    "stock": 50,
+    "description": "Soft cover, 120 pages.",
+    "imageUrl": "https://via.placeholder.com/300x200?text=Notebook",
+    "active": true,
+    "createdAt": 1759872625687
+  }
+]

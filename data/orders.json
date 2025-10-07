@@ -1,0 +1,29 @@
+[
+  {
+    "id": "order_1759873305665",
+    "date": "2025-10-07T21:41:45.665Z",
+    "items": [
+      {
+        "id": "prod_1759872885755",
+        "name": "hamdi",
+        "price": 10,
+        "qty": 10
+      }
+    ],
+    "subtotal": 100,
+    "deliveryFee": 7.5,
+    "total": 107.5,
+    "paymentMethod": "Cash on Delivery",
+    "status": "Completed",
+    "customer": {
+      "fullName": "Ibrahim Zaouali",
+      "phone": "28647334",
+      "email": "ibrahimzaouali888@gmail.com",
+      "address": "Elwifak street",
+      "city": "Jammel, Monastir, Tunisia",
+      "governorate": "Mahdia",
+      "postalCode": "5020",
+      "notes": ""
+    }
+  }
+]
